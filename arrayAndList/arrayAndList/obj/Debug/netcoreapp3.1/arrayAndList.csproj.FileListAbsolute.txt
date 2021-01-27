@@ -1,0 +1,12 @@
+/Users/antonio/Desktop/CS133/arrayAndList/arrayAndList/bin/Debug/netcoreapp3.1/arrayAndList.deps.json
+/Users/antonio/Desktop/CS133/arrayAndList/arrayAndList/bin/Debug/netcoreapp3.1/arrayAndList.runtimeconfig.json
+/Users/antonio/Desktop/CS133/arrayAndList/arrayAndList/bin/Debug/netcoreapp3.1/arrayAndList.runtimeconfig.dev.json
+/Users/antonio/Desktop/CS133/arrayAndList/arrayAndList/bin/Debug/netcoreapp3.1/arrayAndList.dll
+/Users/antonio/Desktop/CS133/arrayAndList/arrayAndList/bin/Debug/netcoreapp3.1/arrayAndList.pdb
+/Users/antonio/Desktop/CS133/arrayAndList/arrayAndList/obj/Debug/netcoreapp3.1/arrayAndList.csprojAssemblyReference.cache
+/Users/antonio/Desktop/CS133/arrayAndList/arrayAndList/obj/Debug/netcoreapp3.1/arrayAndList.AssemblyInfoInputs.cache
+/Users/antonio/Desktop/CS133/arrayAndList/arrayAndList/obj/Debug/netcoreapp3.1/arrayAndList.AssemblyInfo.cs
+/Users/antonio/Desktop/CS133/arrayAndList/arrayAndList/obj/Debug/netcoreapp3.1/arrayAndList.csproj.CoreCompileInputs.cache
+/Users/antonio/Desktop/CS133/arrayAndList/arrayAndList/obj/Debug/netcoreapp3.1/arrayAndList.dll
+/Users/antonio/Desktop/CS133/arrayAndList/arrayAndList/obj/Debug/netcoreapp3.1/arrayAndList.pdb
+/Users/antonio/Desktop/CS133/arrayAndList/arrayAndList/obj/Debug/netcoreapp3.1/arrayAndList.genruntimeconfig.cache
